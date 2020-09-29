@@ -23,7 +23,7 @@
     },
     "dependencies":
     {
-                            "ascension":                    "1.0.x",
+                            "ascension":                    "1.2.0",
                             "interrupt":                    "7.0.x",
                             "magazine":                     "5.0.x",
                             "hash.fnv":                     "1.0.x",
